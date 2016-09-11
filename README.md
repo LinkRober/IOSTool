@@ -14,7 +14,7 @@ _orderButton = [UIButton buttonWithType:UIButtonTypeCustom withTargetBlock:^(id 
 ```
 
 ####XMTabberBadge
-**因为苹果的badge不支持改颜色，特点写了这个工具**
+**因为苹果的badge不支持改颜色，使用Core Graphic 特地写了这个工具**
 
 **set up**
 
