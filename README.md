@@ -1,4 +1,4 @@
-# IOSTool
+# IOSComponent
 Personal little tool
 
 ---
