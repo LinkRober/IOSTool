@@ -3,7 +3,7 @@ Personal little tool
 
 ---
 
-#UIButton+Block
+# UIButton+Block
 **在初始化的时候通过block完成绑定**
 
 ```
@@ -13,7 +13,7 @@ _orderButton = [UIButton buttonWithType:UIButtonTypeCustom withTargetBlock:^(id 
         }];
 ```
 
-#XMTabberBadge
+# XMTabberBadge
 **因为苹果的badge不支持改颜色，使用Core Graphic 特地写了这个工具**
 
 **set up**
