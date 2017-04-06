@@ -125,3 +125,15 @@ it, simply add the following line to your Podfile:
 
 MSMarksButtonList is available under the MIT license. See the LICENSE file for more info.
 
+
+## MSPictureScorllComponent
+a bunch of photo scroll and scale 
+
+<!--https://github.com/LinkRober/MSPictureScorllComponent/blob/master/screenshot.png-->
+
+<div align="left"><img src="screenshot.png" height="400px" /></div>
+
+
+
+
+
