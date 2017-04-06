@@ -12,6 +12,7 @@ _orderButton = [UIButton buttonWithType:UIButtonTypeCustom withTargetBlock:^(id 
             [weakSelf remove];
         }];
 ```
+---
 
 ## XMTabberBadge
 **因为苹果的badge不支持改颜色，使用Core Graphic 特地写了这个工具**
@@ -25,6 +26,9 @@ self.viewControllers = [NSArray arrayWithObjects:_hotfoodNav,_orderNav,_myNav, n
     [self.tabBar setUpCustomBadgeView:3];
     
 ```
+
+---
+
 
 ## MSMarksButtonList
 
@@ -125,6 +129,8 @@ it, simply add the following line to your Podfile:
 
 MSMarksButtonList is available under the MIT license. See the LICENSE file for more info.
 
+
+---
 
 ## MSPictureScorllComponent
 a bunch of photo scroll and scale 
