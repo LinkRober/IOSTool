@@ -3,7 +3,7 @@ Personal little tool
 
 ---
 
-# UIButton+Block
+## UIButton+Block
 **在初始化的时候通过block完成绑定**
 
 ```
@@ -13,7 +13,7 @@ _orderButton = [UIButton buttonWithType:UIButtonTypeCustom withTargetBlock:^(id 
         }];
 ```
 
-# XMTabberBadge
+## XMTabberBadge
 **因为苹果的badge不支持改颜色，使用Core Graphic 特地写了这个工具**
 
 **set up**
@@ -26,7 +26,7 @@ self.viewControllers = [NSArray arrayWithObjects:_hotfoodNav,_orderNav,_myNav, n
     
 ```
 
-# MSMarksButtonList
+## MSMarksButtonList
 
 ![License MIT](https://img.shields.io/dub/l/vibe-d.svg)
 ![Pod version](http://img.shields.io/cocoapods/v/MSMarksButtonList.svg?style=flat)
@@ -40,7 +40,7 @@ A group of buttons ,can be used to do a multiple choice component
 <div style="display:inline-block"><img src="https://github.com/LinkRober/MSMarksButtonList/blob/master/Example/ScreenShot/screenshot2.PNG" height="250px" /></div> -->
 
 
-## Usage
+### Usage
 
 Setting up padding:<br>
 
